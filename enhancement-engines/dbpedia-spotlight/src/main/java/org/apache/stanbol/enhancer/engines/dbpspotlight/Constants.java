@@ -53,7 +53,7 @@ public interface Constants {
 	/**
 	 * The namespace used by DBpedia Spotlight specific properties 
 	 */
-	String SPOTLIGHT_NAME_SPACE = "http://spotlight.dbpedia.org/ns/";
+	String SPOTLIGHT_NAME_SPACE = "http://spotlight.sztaki.hu:2222/ns/";
 	
 	
 	/*

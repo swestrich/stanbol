@@ -76,7 +76,7 @@ import org.xml.sax.SAXException;
 @Service
 @Properties(value = { 
 		@Property(name = EnhancementEngine.PROPERTY_NAME, value = "dbpspotlightspot"),
-		@Property(name = PARAM_URL_KEY, value = "http://spotlight.dbpedia.org/rest/spot"),
+		@Property(name = PARAM_URL_KEY, value = "http://spotlight.sztaki.hu:2222/rest/spot"),
 		@Property(name = PARAM_SPOTTER)
 })
 public class DBPSpotlightSpotEnhancementEngine extends

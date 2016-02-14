@@ -80,7 +80,7 @@ import org.xml.sax.SAXException;
 @Service
 @Properties(value = { 
 		@Property(name = EnhancementEngine.PROPERTY_NAME, value = "dbpspotlightannotate"),
-		@Property(name = PARAM_URL_KEY, value = "http://spotlight.dbpedia.org/rest/annotate"),
+		@Property(name = PARAM_URL_KEY, value = "http://spotlight.sztaki.hu:2222/rest/annotate"),
 		@Property(name = PARAM_SPOTTER),
 		@Property(name = PARAM_DISAMBIGUATOR),
 		@Property(name = PARAM_RESTRICTION),
